@@ -1,5 +1,4 @@
-
-  ##Hey there! 👋 I'm Godfred Adams
+##Hey there! 👋 I'm Godfred Adams
   
 <!--
 **AGodfred/AGodfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
