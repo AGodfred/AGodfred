@@ -1,4 +1,10 @@
-## Hi there 👋
+<svg width="500" height="50">
+  <text x="10" y="35" font-size="24" fill="black">
+    <animate attributeName="fill" from="black" to="blue" dur="1s" repeatCount="indefinite"/>
+    Hey there! 👋 I'm Godfred Adams
+  </text>
+</svg>
+
 
 <!--
 **AGodfred/AGodfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
