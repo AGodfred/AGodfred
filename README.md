@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/AGodfred/AGodfred/blob/5048e14653b86207c3f66c820d3936a30129b867/Banner.jpg)
+![Banner Image](./assets//Banner.jpg)
 
 # Hi there! 👋 I'm Godfred Adams
 
